@@ -1,5 +1,5 @@
 html,body{
-	font-family: arial, sans serif;
+	font-family: arial sans serif;
 	margin: 0;
 }
 
@@ -7,6 +7,7 @@ html,body{
 header{
 	background-color: #00004c;
 	padding: 40px;
+	text-align: center;
 }
 
 h1{
